@@ -3,9 +3,11 @@
 ![image](https://user-images.githubusercontent.com/116358810/228838784-1ddd51d3-8270-4adf-ba98-cb68f9e16488.png)
 
 Below are three types of bag: 
-Garbage Bag![8](https://user-images.githubusercontent.com/116358810/228840497-13e6fdd1-ffa1-4518-a966-8f279d86b236.jpg)
-Paper Bag,![10](https://user-images.githubusercontent.com/116358810/228840137-5197405b-2042-4f54-b512-3104eaf09f88.jpg)
-Plastic Bag![4](https://user-images.githubusercontent.com/116358810/228840199-3f9f50ff-dab0-4c79-a768-d8225fa83478.jpg)
+Garbage Bag: ![8](https://user-images.githubusercontent.com/116358810/228841073-6e190e5b-5aac-4f5d-8d06-31dcb90c53f2.jpg)
+
+Paper Bag: ![6](https://user-images.githubusercontent.com/116358810/228841161-c5338442-6e29-4470-8639-296488f43c87.jpg)
+
+Plastic Bag: ![4](https://user-images.githubusercontent.com/116358810/228841258-ff747280-af5b-4b6b-890b-18125812240a.jpg)
 
 
 
