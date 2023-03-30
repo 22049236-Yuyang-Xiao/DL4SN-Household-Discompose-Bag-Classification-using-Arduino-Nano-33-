@@ -9,3 +9,7 @@ Open the 'nano_ble33_sense_camera.ino' file using Arduino IDE, as show below
 <img width="926" alt="image" src="https://user-images.githubusercontent.com/116358810/226727060-2fa8b56d-210e-4987-938e-bf9788b20122.png">
 
 Connect to your own nano 33 and click 'upload' button to compile, when the uploading done, open serial monitor and it will return results based on your camera picture
+
+Based on the pre-train model, the image from camera can be classified with probability.
+<img width="814" alt="image" src="https://user-images.githubusercontent.com/116358810/228838247-1a7e2b2a-dd0f-4c83-a03e-525be7e1a016.png">
+
