@@ -1,4 +1,4 @@
-# DL4SN-Household-Discompose-Bag-Classification-using-Arduino-Nano-33-
+# DL4SN-Household-Disposable-Bag-Classification-using-Arduino-Nano-33-
 
 ![image](https://user-images.githubusercontent.com/116358810/228838784-1ddd51d3-8270-4adf-ba98-cb68f9e16488.png)
 
