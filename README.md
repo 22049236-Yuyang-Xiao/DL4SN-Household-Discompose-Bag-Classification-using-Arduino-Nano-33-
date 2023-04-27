@@ -36,33 +36,9 @@ Each Image was captured using OV 7675 camera in Arrduino Nano Board. Overall abo
 ## 3. Experiment 
 
 ### 3.1 Project Flow
-```flow
-st=>start: Material Preparation (Edge Impulse & Arduino Nano 33 BLE)
-e=>end: Reflection and work in future
-tag1=>operation: Data Collection and Data Processing (No Agument & Argument)
+<img width="483" alt="image" src="https://user-images.githubusercontent.com/116358810/234925056-b994ce5f-f1fd-42c2-8abc-8f7fc6a6435d.png">
 
-tag3=>operation: Edge Impulse or Colab (GPU)
-
-tag4=>operation: Model Training
-tag5=>operation: Model Validating
-tag6=>operation: Model Testing
-
-tag7=>operation: Model Transfering
-tag8=>operation: Model Depolying on Arduino Nano Board
-
-tag9=>operation: Initializing Camera 
-
-tag9=>operation: Taking Photo and Automatically Making Classification 
-
-cond1=>condition: Validation 
 cond2=>condition: Accuracy & Loss Plot 
-
-st->tag1->tag4->tag5->tag6->tag7->tag8->tag9
-
-
-
-tag9->e
-```
 ### 3.2 Important Code
 1. Data Augment
 
